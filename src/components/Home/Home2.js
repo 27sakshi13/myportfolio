@@ -23,7 +23,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Tailwind CSS and Javascript. </b>
+                <b className="purple"> C++, Java, Python, Tailwind CSS and Javascript. </b>
               </i>
               <br />
               <br />
@@ -38,7 +38,7 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I also apply my passion for developing products
-              with <b className="purple">Node.js , Express.js </b> and
+              with <b className="purple">React js</b> and
               <i>
                 <b className="purple">
                   {" "}
