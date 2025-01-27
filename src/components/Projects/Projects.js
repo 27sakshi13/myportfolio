@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Currency Converter"
               description="Introducing our sleek Currency Converter App, crafted with ReactJS, HTML, and CSS. This dynamic tool leverages API fetching for real-time exchange rates, ensuring accurate and up-to-date conversions. "
-              ghLink="https://github.com/Shjuaaj/currConvo"
+              ghLink="https://github.com/27sakshi13/currConvo"
               demoLink="https://shjuaaj.github.io/currConvo/"
             />
           </Col>
@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="To-Do List"
               description="Meet our To-Do List App, expertly crafted with ReactJS, HTML, CSS, and JavaScript. . Experience the convenience of local storage integration, securely storing your tasks permanently. Effortlessly add, update and delete to-dos in real time."
-              ghLink="https://github.com/Shjuaaj/to-dolist"
+              ghLink="https://github.com/27sakshi13/to-dolist"
               demoLink="https://shjuaaj.github.io/to-dolist/"              
             />
           </Col>
