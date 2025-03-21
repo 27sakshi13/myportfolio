@@ -12,7 +12,7 @@ function AboutCard() {
             from <span className="purple">Buxar, Bihar, India.</span>
             <br /> I am a final year student pursuing BTech from <span className="purple">Chandigarh University</span> in Computer Science.
             <br />
-            Additionally, I am a Coder on CodeChef and have solved 300 questions on LeetCode.
+            Additionally, I am a Coder on CodeChef and have solved more than 700 questions on LeetCode.
             <br />
             <br />
             Apart from coding, some other activities that I love to do include working as a student member at IEEE Chandigarh University.
